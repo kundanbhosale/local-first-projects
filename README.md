@@ -1,10 +1,6 @@
----
-title: Local First Projects List
-description: >-
-  Projects and systems for building local-first applications.
----
 
-There are many alternative systems for developing local-first applications. We list a selection of them below.
+# Local First Projects List
+Projects and systems for building local-first applications.
 
 You can also find out more about local-first software development and discover other projects from a range of communities, including [lofi.software](https://lofi.software), [localfirst.fm](https://www.localfirst.fm), [Local-first Conf](https://www.localfirstconf.com) and [crdt.tech](https://crdt.tech).
 
